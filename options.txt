@@ -469,6 +469,7 @@ key_key.extended_industrialization.toggle_main_hand_ability:key.keyboard.unknown
 key_key.extended_industrialization.toggle_leggings_ability:key.keyboard.unknown
 key_theurgy.key.change_item_mode:key.keyboard.unknown
 key_equipmentcompare.key.showTooltips:key.keyboard.left.shift
+key_key.nbtedit.shortcut:key.keyboard.unknown
 key_pneumaticcraft.armor.upgrade.fall_protection:key.keyboard.unknown
 key_pneumaticcraft.armor.upgrade.jet_boots.module.hover:key.keyboard.unknown
 key_pneumaticcraft.armor.upgrade.stomp:key.keyboard.unknown
