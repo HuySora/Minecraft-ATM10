@@ -3,16 +3,16 @@
 	loot_size: 1
 	order_index: 40
 	rewards: [
-		{ item: { count: 1, id: "functionalstorage:oak_1" } }
-		{ item: { count: 1, id: "functionalstorage:spruce_1" } }
-		{ item: { count: 1, id: "functionalstorage:birch_1" } }
-		{ item: { count: 1, id: "functionalstorage:jungle_1" } }
-		{ item: { count: 1, id: "functionalstorage:acacia_1" } }
-		{ item: { count: 1, id: "functionalstorage:dark_oak_1" } }
-		{ item: { count: 1, id: "functionalstorage:crimson_1" } }
-		{ item: { count: 1, id: "functionalstorage:warped_1" } }
-		{ item: { count: 1, id: "functionalstorage:mangrove_1" } }
-		{ item: { count: 1, id: "functionalstorage:cherry_1" } }
+		{ id: "01AFF51D40455A10", item: { count: 1, id: "functionalstorage:oak_1" } }
+		{ id: "2C0483C20EA7E0B2", item: { count: 1, id: "functionalstorage:spruce_1" } }
+		{ id: "7179867DFC0B35B4", item: { count: 1, id: "functionalstorage:birch_1" } }
+		{ id: "59C96C5271158924", item: { count: 1, id: "functionalstorage:jungle_1" } }
+		{ id: "6110ADA60D0D4983", item: { count: 1, id: "functionalstorage:acacia_1" } }
+		{ id: "768EDBB7EC496DC7", item: { count: 1, id: "functionalstorage:dark_oak_1" } }
+		{ id: "6262CBA2E79E1CC4", item: { count: 1, id: "functionalstorage:crimson_1" } }
+		{ id: "3C00BED666EDF16E", item: { count: 1, id: "functionalstorage:warped_1" } }
+		{ id: "211E959800AA0176", item: { count: 1, id: "functionalstorage:mangrove_1" } }
+		{ id: "2F4DE1DE7FF1076A", item: { count: 1, id: "functionalstorage:cherry_1" } }
 	]
 	use_title: true
 }

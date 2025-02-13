@@ -760,7 +760,6 @@
 				{
 					exclude_from_claim_all: true
 					id: "6BEE9AF7D663093E"
-					table_id: 3039436063283303593L
 					type: "choice"
 				}
 				{
@@ -833,7 +832,6 @@
 				{
 					exclude_from_claim_all: true
 					id: "623A4E7FB44F0026"
-					table_id: 3039436063283303593L
 					type: "choice"
 				}
 				{
@@ -1045,7 +1043,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "41E88744708D892F"
-				table_id: 742263138327196441L
 				type: "choice"
 			}]
 			shape: "diamond"
@@ -1376,13 +1373,11 @@
 				{
 					exclude_from_claim_all: true
 					id: "12BEB5E45C8D3888"
-					table_id: 742263138327196441L
 					type: "choice"
 				}
 				{
 					exclude_from_claim_all: true
 					id: "0221A594DAEDBADF"
-					table_id: 742263138327196441L
 					type: "choice"
 				}
 			]
@@ -1448,13 +1443,11 @@
 				{
 					exclude_from_claim_all: true
 					id: "02CA9258BB695370"
-					table_id: 3039436063283303593L
 					type: "choice"
 				}
 				{
 					exclude_from_claim_all: true
 					id: "77DAC814DADBFD96"
-					table_id: 742263138327196441L
 					type: "choice"
 				}
 				{
@@ -1519,7 +1512,6 @@
 				{
 					exclude_from_claim_all: true
 					id: "361DFFC74E14C75F"
-					table_id: 3039436063283303593L
 					type: "choice"
 				}
 				{
@@ -1629,13 +1621,11 @@
 				{
 					exclude_from_claim_all: true
 					id: "65472E5BB16F8644"
-					table_id: 3039436063283303593L
 					type: "choice"
 				}
 				{
 					exclude_from_claim_all: true
 					id: "6DB472900B4F64D4"
-					table_id: 742263138327196441L
 					type: "choice"
 				}
 				{
@@ -1695,7 +1685,6 @@
 				{
 					exclude_from_claim_all: true
 					id: "091690560D4D98DF"
-					table_id: 3039436063283303593L
 					type: "choice"
 				}
 				{
@@ -1767,7 +1756,6 @@
 				{
 					exclude_from_claim_all: true
 					id: "35A4293C34073C0C"
-					table_id: 3039436063283303593L
 					type: "choice"
 				}
 				{
@@ -1852,7 +1840,6 @@
 				{
 					exclude_from_claim_all: true
 					id: "30B83564FE71A871"
-					table_id: 3039436063283303593L
 					type: "choice"
 				}
 				{
@@ -1927,7 +1914,6 @@
 				{
 					exclude_from_claim_all: true
 					id: "755DB89EB53AEC1E"
-					table_id: 3039436063283303593L
 					type: "choice"
 				}
 				{
@@ -2002,7 +1988,6 @@
 				{
 					exclude_from_claim_all: true
 					id: "629B6A3F335A9A03"
-					table_id: 3039436063283303593L
 					type: "choice"
 				}
 				{
@@ -2079,7 +2064,6 @@
 				{
 					exclude_from_claim_all: true
 					id: "5C14751A7B402A4C"
-					table_id: 3039436063283303593L
 					type: "choice"
 				}
 				{
@@ -2162,7 +2146,6 @@
 				{
 					exclude_from_claim_all: true
 					id: "2BED91FF660540E5"
-					table_id: 3039436063283303593L
 					type: "choice"
 				}
 				{
@@ -2238,13 +2221,11 @@
 				{
 					exclude_from_claim_all: true
 					id: "75F1BE0CC5CA069B"
-					table_id: 3039436063283303593L
 					type: "choice"
 				}
 				{
 					exclude_from_claim_all: true
 					id: "1F72F9C46B4BA93B"
-					table_id: 742263138327196441L
 					type: "choice"
 				}
 				{
@@ -2314,7 +2295,6 @@
 				{
 					exclude_from_claim_all: true
 					id: "2102DBCB55ECE56A"
-					table_id: 3039436063283303593L
 					type: "choice"
 				}
 				{
@@ -2394,7 +2374,6 @@
 				{
 					exclude_from_claim_all: true
 					id: "5A2189D1B16E0DC3"
-					table_id: 3039436063283303593L
 					type: "choice"
 				}
 				{
@@ -2497,7 +2476,6 @@
 				{
 					exclude_from_claim_all: true
 					id: "4409B2EAA156C7E7"
-					table_id: 3039436063283303593L
 					type: "choice"
 				}
 				{
@@ -2611,19 +2589,16 @@
 				{
 					exclude_from_claim_all: true
 					id: "6EA722E72E69B939"
-					table_id: 742263138327196441L
 					type: "choice"
 				}
 				{
 					exclude_from_claim_all: true
 					id: "146A308DEFC378C4"
-					table_id: 742263138327196441L
 					type: "choice"
 				}
 				{
 					exclude_from_claim_all: true
 					id: "1EE91116B821AEF9"
-					table_id: 742263138327196441L
 					type: "choice"
 				}
 			]
@@ -2666,7 +2641,6 @@
 				{
 					exclude_from_claim_all: true
 					id: "0F978144727D88DF"
-					table_id: 935884478586425843L
 					type: "choice"
 				}
 				{
@@ -2691,7 +2665,6 @@
 				{
 					exclude_from_claim_all: true
 					id: "4EB6FA91DA0E3661"
-					table_id: 935884478586425843L
 					type: "choice"
 				}
 				{
@@ -2716,7 +2689,6 @@
 				{
 					exclude_from_claim_all: true
 					id: "0CA8DB8CB0D64434"
-					table_id: 935884478586425843L
 					type: "choice"
 				}
 				{
@@ -2741,7 +2713,6 @@
 				{
 					exclude_from_claim_all: true
 					id: "25FFEAE45EDB4154"
-					table_id: 935884478586425843L
 					type: "choice"
 				}
 				{
@@ -2847,7 +2818,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "1DCD917AAE8E56D1"
-				table_id: 3039436063283303593L
 				type: "choice"
 			}]
 			tasks: [{
@@ -3026,7 +2996,6 @@
 				{
 					exclude_from_claim_all: true
 					id: "402D0A5F6FA236D2"
-					table_id: 935884478586425843L
 					type: "choice"
 				}
 				{
@@ -3051,7 +3020,6 @@
 				{
 					exclude_from_claim_all: true
 					id: "653DF4AFCC5B22A5"
-					table_id: 935884478586425843L
 					type: "choice"
 				}
 				{
@@ -3076,7 +3044,6 @@
 				{
 					exclude_from_claim_all: true
 					id: "6B73DC3B69BA7F13"
-					table_id: 935884478586425843L
 					type: "choice"
 				}
 				{
@@ -3345,7 +3312,6 @@
 				{
 					exclude_from_claim_all: true
 					id: "0F25A71DB5C312D0"
-					table_id: 935884478586425843L
 					type: "choice"
 				}
 				{
@@ -3370,7 +3336,6 @@
 				{
 					exclude_from_claim_all: true
 					id: "73A2AFBA7AFC46C0"
-					table_id: 935884478586425843L
 					type: "choice"
 				}
 				{
@@ -3642,7 +3607,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "7D4A1CA2918F79FC"
-				table_id: 935884478586425843L
 				type: "choice"
 			}]
 			size: 0.75d
@@ -3661,13 +3625,11 @@
 				{
 					exclude_from_claim_all: true
 					id: "04FFC8E2F1353DAB"
-					table_id: 742263138327196441L
 					type: "choice"
 				}
 				{
 					exclude_from_claim_all: true
 					id: "69B33C8473D37497"
-					table_id: 935884478586425843L
 					type: "choice"
 				}
 			]
@@ -3709,13 +3671,11 @@
 				{
 					exclude_from_claim_all: true
 					id: "56C5A246C5A22711"
-					table_id: 742263138327196441L
 					type: "choice"
 				}
 				{
 					exclude_from_claim_all: true
 					id: "50319EAADDCAB33B"
-					table_id: 935884478586425843L
 					type: "choice"
 				}
 			]
@@ -3757,7 +3717,6 @@
 				{
 					exclude_from_claim_all: true
 					id: "0EE1A539A6B19BFB"
-					table_id: 935884478586425843L
 					type: "choice"
 				}
 				{
@@ -3796,7 +3755,6 @@
 				{
 					exclude_from_claim_all: true
 					id: "62C6ED420428CD2E"
-					table_id: 935884478586425843L
 					type: "choice"
 				}
 				{

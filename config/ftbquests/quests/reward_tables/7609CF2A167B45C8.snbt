@@ -3,10 +3,38 @@
 	loot_size: 1
 	order_index: 28
 	rewards: [
-		{ count: 5, item: { count: 1, id: "theurgy:alchemical_salt_strata" } }
-		{ count: 4, item: { count: 1, id: "theurgy:alchemical_salt_mineral" } }
-		{ count: 3, item: { count: 1, id: "theurgy:alchemical_salt_plant" } }
-		{ count: 2, item: { count: 1, id: "theurgy:alchemical_salt_creature" } }
+		{
+			count: 5
+			id: "4D524AD8B3D05FC0"
+			item: {
+				count: 1
+				id: "theurgy:alchemical_salt_strata"
+			}
+		}
+		{
+			count: 4
+			id: "68FC51E28BFF0191"
+			item: {
+				count: 1
+				id: "theurgy:alchemical_salt_mineral"
+			}
+		}
+		{
+			count: 3
+			id: "3F74A1AE53D854EA"
+			item: {
+				count: 1
+				id: "theurgy:alchemical_salt_plant"
+			}
+		}
+		{
+			count: 2
+			id: "0DCC4E604D390FB5"
+			item: {
+				count: 1
+				id: "theurgy:alchemical_salt_creature"
+			}
+		}
 	]
 	use_title: true
 }

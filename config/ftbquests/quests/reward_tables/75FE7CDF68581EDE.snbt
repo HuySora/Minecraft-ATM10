@@ -3,11 +3,46 @@
 	loot_size: 1
 	order_index: 22
 	rewards: [
-		{ count: 6, item: { count: 1, id: "alltheores:steel_ingot" } }
-		{ count: 6, item: { count: 1, id: "minecraft:iron_ingot" } }
-		{ count: 6, item: { count: 1, id: "minecraft:gold_ingot" } }
-		{ count: 6, item: { count: 1, id: "minecraft:copper_ingot" } }
-		{ count: 6, item: { count: 1, id: "minecraft:redstone" } }
+		{
+			count: 6
+			id: "2E49DEF4F0200BD0"
+			item: {
+				count: 1
+				id: "alltheores:steel_ingot"
+			}
+		}
+		{
+			count: 6
+			id: "34DEBB914940C5CE"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+		}
+		{
+			count: 6
+			id: "634C5ACE14316882"
+			item: {
+				count: 1
+				id: "minecraft:gold_ingot"
+			}
+		}
+		{
+			count: 6
+			id: "0464EC82495E20FA"
+			item: {
+				count: 1
+				id: "minecraft:copper_ingot"
+			}
+		}
+		{
+			count: 6
+			id: "7273B3846AD52D16"
+			item: {
+				count: 1
+				id: "minecraft:redstone"
+			}
+		}
 	]
 	use_title: true
 }

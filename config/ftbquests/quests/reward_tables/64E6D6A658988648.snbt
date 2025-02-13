@@ -3,9 +3,17 @@
 	loot_size: 1
 	order_index: 30
 	rewards: [
-		{ item: { count: 1, id: "mysticalagriculture:tertium_farmland" }, weight: 5.0f }
+		{
+			id: "30FE3D1F49893DA6"
+			item: {
+				count: 1
+				id: "mysticalagriculture:tertium_farmland"
+			}
+			weight: 5.0f
+		}
 		{
 			count: 2
+			id: "3D6147AC0CF11D2B"
 			item: {
 				count: 1
 				id: "mysticalagriculture:tertium_essence"
@@ -13,35 +21,238 @@
 			random_bonus: 2
 			weight: 10.0f
 		}
-		{ item: { count: 1, id: "mysticalagriculture:tertium_ingot" }, weight: 6.0f }
-		{ item: { count: 1, id: "mysticalagriculture:tertium_gemstone" }, weight: 4.0f }
-		{ item: { count: 1, id: "mysticalagriculture:tertium_block" }, weight: 4.0f }
-		{ item: { count: 1, id: "mysticalagradditions:tertium_apple" }, weight: 4.0f }
-		{ item: { count: 1, id: "mysticalagradditions:tertium_coal" }, weight: 5.0f }
-		{ item: { count: 1, id: "mysticalagriculture:copper_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:iron_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:nether_quartz_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:redstone_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:glowstone_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:obsidian_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:tin_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:bronze_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:zinc_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:silver_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:lead_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:graphite_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:sky_stone_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:certus_quartz_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:brass_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:prismarine_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:zombie_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:creeper_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:spider_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:skeleton_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:rabbit_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:darkstone_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:azure_silver_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:crimson_iron_seeds" }, weight: 2.0f }
+		{
+			id: "527AB5078E7F28FA"
+			item: {
+				count: 1
+				id: "mysticalagriculture:tertium_ingot"
+			}
+			weight: 6.0f
+		}
+		{
+			id: "79AFA5E20021FD5D"
+			item: {
+				count: 1
+				id: "mysticalagriculture:tertium_gemstone"
+			}
+			weight: 4.0f
+		}
+		{
+			id: "4B161FAB93EAB737"
+			item: {
+				count: 1
+				id: "mysticalagriculture:tertium_block"
+			}
+			weight: 4.0f
+		}
+		{
+			id: "2316003C713CE04B"
+			item: {
+				count: 1
+				id: "mysticalagradditions:tertium_apple"
+			}
+			weight: 4.0f
+		}
+		{
+			id: "2B79AEFEC5DDD8E4"
+			item: {
+				count: 1
+				id: "mysticalagradditions:tertium_coal"
+			}
+			weight: 5.0f
+		}
+		{
+			id: "57F9B47C59938792"
+			item: {
+				count: 1
+				id: "mysticalagriculture:copper_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "7A9CADAE42B8E04C"
+			item: {
+				count: 1
+				id: "mysticalagriculture:iron_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "00C64FA58A225983"
+			item: {
+				count: 1
+				id: "mysticalagriculture:nether_quartz_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "31009E512214F726"
+			item: {
+				count: 1
+				id: "mysticalagriculture:redstone_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "66FD17E4C940EF3A"
+			item: {
+				count: 1
+				id: "mysticalagriculture:glowstone_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "53CABF825194AD70"
+			item: {
+				count: 1
+				id: "mysticalagriculture:obsidian_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "4F672F51F87B1011"
+			item: {
+				count: 1
+				id: "mysticalagriculture:tin_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "6E46FA660C30E88F"
+			item: {
+				count: 1
+				id: "mysticalagriculture:bronze_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "7658E2DB2F593275"
+			item: {
+				count: 1
+				id: "mysticalagriculture:zinc_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "3256FF63BB5B9F72"
+			item: {
+				count: 1
+				id: "mysticalagriculture:silver_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "47D4DB401DE2C982"
+			item: {
+				count: 1
+				id: "mysticalagriculture:lead_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "70180B7828A85ACF"
+			item: {
+				count: 1
+				id: "mysticalagriculture:graphite_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "6E8CA1D608E2AF31"
+			item: {
+				count: 1
+				id: "mysticalagriculture:sky_stone_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "6AFD37926ADC6D3B"
+			item: {
+				count: 1
+				id: "mysticalagriculture:certus_quartz_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "7646A468DDFB1273"
+			item: {
+				count: 1
+				id: "mysticalagriculture:brass_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "549CF1FCE825A0E9"
+			item: {
+				count: 1
+				id: "mysticalagriculture:prismarine_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "2AEAFA41DEC64AE3"
+			item: {
+				count: 1
+				id: "mysticalagriculture:zombie_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "502EEC43C765BC70"
+			item: {
+				count: 1
+				id: "mysticalagriculture:creeper_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "434A9FDB43B631E8"
+			item: {
+				count: 1
+				id: "mysticalagriculture:spider_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "2DB02BDA4DB69913"
+			item: {
+				count: 1
+				id: "mysticalagriculture:skeleton_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "08A25EA26ABE8FB8"
+			item: {
+				count: 1
+				id: "mysticalagriculture:rabbit_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "27F2B4F04BF6102D"
+			item: {
+				count: 1
+				id: "mysticalagriculture:darkstone_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "6F6E2F6D79C6D246"
+			item: {
+				count: 1
+				id: "mysticalagriculture:azure_silver_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "2CD8595E18804775"
+			item: {
+				count: 1
+				id: "mysticalagriculture:crimson_iron_seeds"
+			}
+			weight: 2.0f
+		}
 	]
 	use_title: true
 }

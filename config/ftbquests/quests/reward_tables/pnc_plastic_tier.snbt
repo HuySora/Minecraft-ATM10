@@ -5,6 +5,7 @@
 	rewards: [
 		{
 			count: 5
+			id: "3405EC6423419235"
 			item: {
 				count: 1
 				id: "pneumaticcraft:plastic_brick_black"
@@ -14,6 +15,7 @@
 		}
 		{
 			count: 5
+			id: "2046B199B1640220"
 			item: {
 				count: 1
 				id: "pneumaticcraft:plastic_brick_blue"
@@ -23,6 +25,7 @@
 		}
 		{
 			count: 5
+			id: "5ADE873301CC5178"
 			item: {
 				count: 1
 				id: "pneumaticcraft:plastic_brick_brown"
@@ -32,6 +35,7 @@
 		}
 		{
 			count: 5
+			id: "03F9EF1F36793C70"
 			item: {
 				count: 1
 				id: "pneumaticcraft:plastic_brick_cyan"
@@ -41,6 +45,7 @@
 		}
 		{
 			count: 5
+			id: "6F9577903161309C"
 			item: {
 				count: 1
 				id: "pneumaticcraft:plastic_brick_gray"
@@ -50,6 +55,7 @@
 		}
 		{
 			count: 5
+			id: "39E91968A0A469C0"
 			item: {
 				count: 1
 				id: "pneumaticcraft:plastic_brick_green"
@@ -59,6 +65,7 @@
 		}
 		{
 			count: 5
+			id: "2BCFF86FD1270700"
 			item: {
 				count: 1
 				id: "pneumaticcraft:plastic_brick_light_blue"
@@ -68,6 +75,7 @@
 		}
 		{
 			count: 5
+			id: "65A75497DD0EC304"
 			item: {
 				count: 1
 				id: "pneumaticcraft:plastic_brick_light_gray"
@@ -77,6 +85,7 @@
 		}
 		{
 			count: 5
+			id: "38A0199D36DDB72F"
 			item: {
 				count: 1
 				id: "pneumaticcraft:plastic_brick_lime"
@@ -86,6 +95,7 @@
 		}
 		{
 			count: 5
+			id: "16755F2A3E130156"
 			item: {
 				count: 1
 				id: "pneumaticcraft:plastic_brick_magenta"
@@ -95,6 +105,7 @@
 		}
 		{
 			count: 5
+			id: "7147866F1C57BAF8"
 			item: {
 				count: 1
 				id: "pneumaticcraft:plastic_brick_orange"
@@ -104,6 +115,7 @@
 		}
 		{
 			count: 5
+			id: "10696D5607085FFA"
 			item: {
 				count: 1
 				id: "pneumaticcraft:plastic_brick_pink"
@@ -113,6 +125,7 @@
 		}
 		{
 			count: 5
+			id: "5EEE817A82E2096B"
 			item: {
 				count: 1
 				id: "pneumaticcraft:plastic_brick_purple"
@@ -122,6 +135,7 @@
 		}
 		{
 			count: 5
+			id: "7650B7105517BF8B"
 			item: {
 				count: 1
 				id: "pneumaticcraft:plastic_brick_red"
@@ -131,6 +145,7 @@
 		}
 		{
 			count: 5
+			id: "2FB3C04ECB85C6DC"
 			item: {
 				count: 1
 				id: "pneumaticcraft:plastic_brick_white"
@@ -140,6 +155,7 @@
 		}
 		{
 			count: 5
+			id: "051D214BE2E495DE"
 			item: {
 				count: 1
 				id: "pneumaticcraft:plastic_brick_yellow"
@@ -149,34 +165,72 @@
 		}
 		{
 			count: 5
+			id: "3374E5A52FCFCF60"
 			item: {
 				count: 1
 				id: "pneumaticcraft:plastic"
 			}
 			random_bonus: 5
 		}
-		{ item: { count: 1, id: "pneumaticcraft:elevator_base" }, random_bonus: 1 }
-		{ item: { count: 1, id: "pneumaticcraft:elevator_caller" }, random_bonus: 1 }
+		{
+			id: "5EC75B2CD35E4385"
+			item: {
+				count: 1
+				id: "pneumaticcraft:elevator_base"
+			}
+			random_bonus: 1
+		}
+		{
+			id: "1E4C64D67E1F0F43"
+			item: {
+				count: 1
+				id: "pneumaticcraft:elevator_caller"
+			}
+			random_bonus: 1
+		}
 		{
 			count: 5
+			id: "54F96DF9AD62841B"
 			item: {
 				count: 1
 				id: "pneumaticcraft:elevator_frame"
 			}
 			random_bonus: 5
 		}
-		{ item: { count: 1, id: "pneumaticcraft:pneumatic_door" }, random_bonus: 2 }
-		{ item: { count: 1, id: "pneumaticcraft:pneumatic_door_base" }, random_bonus: 1 }
+		{
+			id: "1B8A620DE3801B25"
+			item: {
+				count: 1
+				id: "pneumaticcraft:pneumatic_door"
+			}
+			random_bonus: 2
+		}
+		{
+			id: "0CA818BA8ECF0C3E"
+			item: {
+				count: 1
+				id: "pneumaticcraft:pneumatic_door_base"
+			}
+			random_bonus: 1
+		}
 		{
 			count: 2
+			id: "64FD6A44EEC4C060"
 			item: {
 				count: 1
 				id: "pneumaticcraft:empty_pcb"
 			}
 			random_bonus: 1
 		}
-		{ item: { count: 1, id: "pneumaticcraft:pcb_blueprint" }, weight: 0.5f }
-		{ item: { count: 1, id: "pneumaticcraft:solar_wafer" } }
+		{
+			id: "4FBC0E2568740B46"
+			item: {
+				count: 1
+				id: "pneumaticcraft:pcb_blueprint"
+			}
+			weight: 0.5f
+		}
+		{ id: "714592A3317A9766", item: { count: 1, id: "pneumaticcraft:solar_wafer" } }
 	]
 	use_title: true
 }

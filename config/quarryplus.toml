@@ -12,6 +12,8 @@ removeCommonMaterialsByChunkDestroyer = true
 convertDeepslateOres = false
 #Enable Chunk Loader in machines. Default: true
 enableChunkLoader = true
+#Enable Custom player mode. Default: false
+customPlayer = false
 
 [enableMap]
 	#pump_module Default: true
@@ -34,6 +36,10 @@ enableChunkLoader = true
 	flexible_marker = true
 	#filter_module Default: true
 	filter_module = true
+	#placer_plus Default: true
+	placer_plus = true
+	#remote_placer Default: false
+	remote_placer = false
 
 	[powerMap.advQuarry]
 		#maxEnergy. Default: 50000.000000, Min: 0.0, Max: 10000000000.0

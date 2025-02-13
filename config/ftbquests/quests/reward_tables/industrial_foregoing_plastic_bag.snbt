@@ -3,23 +3,89 @@
 	loot_size: 1
 	order_index: 34
 	rewards: [
-		{ item: { count: 1, id: "industrialforegoing:machine_frame_simple" }, weight: 0.3f }
-		{ item: { count: 1, id: "industrialforegoing:machine_frame_pity" }, weight: 0.5f }
+		{
+			id: "61EE4457D6AA05E1"
+			item: {
+				count: 1
+				id: "industrialforegoing:machine_frame_simple"
+			}
+			weight: 0.3f
+		}
+		{
+			id: "17F59B8B2003FDF6"
+			item: {
+				count: 1
+				id: "industrialforegoing:machine_frame_pity"
+			}
+			weight: 0.5f
+		}
 		{
 			count: 5
+			id: "3B63DED9D8ED8D7F"
 			item: {
 				count: 1
 				id: "industrialforegoing:plastic"
 			}
 			random_bonus: 5
 		}
-		{ item: { count: 1, id: "industrialforegoing:pink_slime_bucket" }, weight: 0.5f }
-		{ item: { components: { "titanium:augments": { Speed: 2.0f } }, count: 1, id: "industrialforegoing:speed_addon_tier_1" }, weight: 0.7f }
-		{ item: { components: { "titanium:augments": { Efficiency: 0.9f } }, count: 1, id: "industrialforegoing:efficiency_addon_tier_1" }, weight: 0.7f }
-		{ item: { components: { "titanium:augments": { Processing: 2.0f } }, count: 1, id: "industrialforegoing:processing_addon_tier_1" }, weight: 0.7f }
-		{ item: { count: 1, id: "industrialforegoing:mob_imprisonment_tool" }, weight: 0.3f }
+		{
+			id: "1CA0C651C9D0F00F"
+			item: {
+				count: 1
+				id: "industrialforegoing:pink_slime_bucket"
+			}
+			weight: 0.5f
+		}
+		{
+			id: "15A2F2CE5062ADC2"
+			item: {
+				components: {
+					"titanium:augments": {
+						Speed: 2.0f
+					}
+				}
+				count: 1
+				id: "industrialforegoing:speed_addon_tier_1"
+			}
+			weight: 0.7f
+		}
+		{
+			id: "17267959FB80B10B"
+			item: {
+				components: {
+					"titanium:augments": {
+						Efficiency: 0.9f
+					}
+				}
+				count: 1
+				id: "industrialforegoing:efficiency_addon_tier_1"
+			}
+			weight: 0.7f
+		}
+		{
+			id: "4A575697808E6DCB"
+			item: {
+				components: {
+					"titanium:augments": {
+						Processing: 2.0f
+					}
+				}
+				count: 1
+				id: "industrialforegoing:processing_addon_tier_1"
+			}
+			weight: 0.7f
+		}
+		{
+			id: "281DAF66982307F2"
+			item: {
+				count: 1
+				id: "industrialforegoing:mob_imprisonment_tool"
+			}
+			weight: 0.3f
+		}
 		{
 			count: 3
+			id: "5D651A338418F7C2"
 			item: {
 				count: 1
 				id: "industrialforegoing:pink_slime"

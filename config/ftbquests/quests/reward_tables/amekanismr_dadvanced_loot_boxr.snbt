@@ -15,6 +15,7 @@
 	rewards: [
 		{
 			count: 4
+			id: "2D613C4051AA1EDA"
 			item: {
 				count: 1
 				id: "alltheores:steel_ingot"
@@ -23,6 +24,7 @@
 			weight: 100.0f
 		}
 		{
+			id: "6B646AD2EC08D8D9"
 			item: {
 				count: 1
 				id: "alltheores:steel_block"
@@ -31,6 +33,7 @@
 			weight: 75.0f
 		}
 		{
+			id: "713DE7326EEA0803"
 			item: {
 				count: 1
 				id: "mekanism:steel_casing"
@@ -40,6 +43,7 @@
 		}
 		{
 			count: 16
+			id: "3100E9A14C50978E"
 			item: {
 				count: 1
 				id: "mekanism:thermal_evaporation_block"
@@ -47,10 +51,25 @@
 			random_bonus: 16
 			weight: 50.0f
 		}
-		{ item: { count: 1, id: "mekanism:basic_induction_cell" }, weight: 50.0f }
-		{ item: { count: 1, id: "mekanism:basic_induction_provider" }, weight: 50.0f }
-		{ item: { count: 1, id: "mekanism:pellet_polonium" } }
 		{
+			id: "52A9A3CFCEC9DE0D"
+			item: {
+				count: 1
+				id: "mekanism:basic_induction_cell"
+			}
+			weight: 50.0f
+		}
+		{
+			id: "64E6412E46124937"
+			item: {
+				count: 1
+				id: "mekanism:basic_induction_provider"
+			}
+			weight: 50.0f
+		}
+		{ id: "59C757DEE6E1A439", item: { count: 1, id: "mekanism:pellet_polonium" } }
+		{
+			id: "5FDC2A463520BC1B"
 			item: {
 				count: 1
 				id: "mekanism:pellet_plutonium"
@@ -60,6 +79,7 @@
 		}
 		{
 			count: 4
+			id: "5CD326FBA3CDC935"
 			item: {
 				count: 1
 				id: "alltheores:uranium_ingot"
@@ -69,6 +89,7 @@
 		}
 		{
 			count: 4
+			id: "2765F08BE34331F8"
 			item: {
 				count: 1
 				id: "mekanismgenerators:turbine_casing"
@@ -78,6 +99,7 @@
 		}
 		{
 			count: 4
+			id: "6B12B1FA83259752"
 			item: {
 				count: 1
 				id: "mekanismgenerators:fission_reactor_casing"
@@ -86,6 +108,7 @@
 			weight: 25.0f
 		}
 		{
+			id: "0BC45C10E7EE402D"
 			item: {
 				count: 1
 				id: "alltheores:uranium_block"
@@ -95,6 +118,7 @@
 		}
 		{
 			count: 4
+			id: "782CD0B961289229"
 			item: {
 				count: 1
 				id: "mekanism:upgrade_speed"
@@ -104,6 +128,7 @@
 		}
 		{
 			count: 4
+			id: "4F086B7CCAF4F0CE"
 			item: {
 				count: 1
 				id: "mekanism:upgrade_energy"
@@ -112,6 +137,7 @@
 			weight: 75.0f
 		}
 		{
+			id: "377CDD9A04E0A913"
 			item: {
 				count: 1
 				id: "mekanism:advanced_tier_installer"
@@ -119,10 +145,25 @@
 			random_bonus: 1
 			weight: 50.0f
 		}
-		{ item: { count: 1, id: "mekanism:elite_tier_installer" }, weight: 50.0f }
-		{ item: { count: 1, id: "mekanism:ultimate_tier_installer" }, weight: 25.0f }
+		{
+			id: "25C6F36110A8B090"
+			item: {
+				count: 1
+				id: "mekanism:elite_tier_installer"
+			}
+			weight: 50.0f
+		}
+		{
+			id: "69920C1982A23216"
+			item: {
+				count: 1
+				id: "mekanism:ultimate_tier_installer"
+			}
+			weight: 25.0f
+		}
 		{
 			count: 2
+			id: "1D3884AD513B9323"
 			item: {
 				count: 1
 				id: "mekanism:alloy_reinforced"
@@ -131,6 +172,7 @@
 			weight: 75.0f
 		}
 		{
+			id: "2E8D270A186D5E53"
 			item: {
 				count: 1
 				id: "mekanism:alloy_atomic"
@@ -140,6 +182,7 @@
 		}
 		{
 			count: 2
+			id: "1891C72FF68D638D"
 			item: {
 				count: 1
 				id: "mekanism:reprocessed_fissile_fragment"
@@ -149,6 +192,7 @@
 		}
 		{
 			count: 4
+			id: "10E104DC4C71FFFA"
 			item: {
 				count: 1
 				id: "mekanism:dust_lithium"
@@ -156,11 +200,33 @@
 			random_bonus: 12
 			weight: 50.0f
 		}
-		{ item: { count: 1, id: "mekanism:quantum_entangloporter" }, weight: 25.0f }
-		{ item: { count: 1, id: "mekanism:elite_energy_cube" }, weight: 10.0f }
-		{ item: { count: 1, id: "mekanism:ultimate_energy_cube" }, weight: 5.0f }
+		{
+			id: "593BAB59F0D9AEC2"
+			item: {
+				count: 1
+				id: "mekanism:quantum_entangloporter"
+			}
+			weight: 25.0f
+		}
+		{
+			id: "1BA7B952DD3575D6"
+			item: {
+				count: 1
+				id: "mekanism:elite_energy_cube"
+			}
+			weight: 10.0f
+		}
+		{
+			id: "4E281976447303D5"
+			item: {
+				count: 1
+				id: "mekanism:ultimate_energy_cube"
+			}
+			weight: 5.0f
+		}
 		{
 			count: 4
+			id: "32AC97DB4015172A"
 			item: {
 				count: 1
 				id: "mekanism:ultimate_universal_cable"
@@ -170,6 +236,7 @@
 		}
 		{
 			count: 4
+			id: "0657C42E08A7E882"
 			item: {
 				count: 1
 				id: "mekanism:ultimate_mechanical_pipe"
@@ -179,6 +246,7 @@
 		}
 		{
 			count: 4
+			id: "3AE017535DFB7E7C"
 			item: {
 				count: 1
 				id: "mekanism:ultimate_pressurized_tube"
@@ -187,6 +255,7 @@
 			weight: 50.0f
 		}
 		{
+			id: "3B30459BF011DB02"
 			item: {
 				count: 1
 				id: "mekanismgenerators:advanced_solar_generator"

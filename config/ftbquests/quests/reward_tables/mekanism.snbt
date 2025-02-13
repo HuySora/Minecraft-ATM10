@@ -5,6 +5,7 @@
 	rewards: [
 		{
 			count: 2
+			id: "6D834D7384C26DAE"
 			item: {
 				count: 1
 				id: "mekanism:alloy_infused"
@@ -14,6 +15,7 @@
 		}
 		{
 			count: 2
+			id: "2DF64907D2691EAE"
 			item: {
 				count: 1
 				id: "mekanism:basic_control_circuit"
@@ -22,6 +24,7 @@
 			weight: 4.0f
 		}
 		{
+			id: "064024B7C2C31F36"
 			item: {
 				count: 1
 				id: "mekanism:alloy_reinforced"
@@ -30,6 +33,7 @@
 			weight: 2.0f
 		}
 		{
+			id: "0E3FF5BA786FCAD4"
 			item: {
 				count: 1
 				id: "mekanism:advanced_control_circuit"
@@ -39,6 +43,7 @@
 		}
 		{
 			count: 4
+			id: "4F6AF8F596B7CC3B"
 			item: {
 				count: 1
 				id: "alltheores:osmium_ingot"

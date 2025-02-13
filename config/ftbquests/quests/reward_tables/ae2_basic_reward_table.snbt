@@ -5,6 +5,7 @@
 	rewards: [
 		{
 			count: 2
+			id: "50004AB71E830718"
 			item: {
 				count: 1
 				id: "ae2:certus_quartz_crystal"
@@ -14,6 +15,7 @@
 		}
 		{
 			count: 4
+			id: "51DAACA26AD00173"
 			item: {
 				count: 1
 				id: "ae2:certus_quartz_dust"
@@ -23,6 +25,7 @@
 		}
 		{
 			count: 4
+			id: "5DAABDCDC1BDA1B3"
 			item: {
 				count: 1
 				id: "ae2:silicon"
@@ -32,6 +35,7 @@
 		}
 		{
 			count: 2
+			id: "5198E5C1A7202118"
 			item: {
 				count: 1
 				id: "ae2:printed_silicon"
@@ -41,6 +45,7 @@
 		}
 		{
 			count: 2
+			id: "057F02A7D754745E"
 			item: {
 				count: 1
 				id: "ae2:charged_certus_quartz_crystal"
@@ -49,6 +54,7 @@
 		}
 		{
 			count: 2
+			id: "7CB2BA1491611F6A"
 			item: {
 				count: 1
 				id: "ae2:fluix_crystal"
@@ -57,6 +63,7 @@
 			weight: 2.0f
 		}
 		{
+			id: "50A38633CAE10976"
 			item: {
 				count: 1
 				id: "ae2:fluix_dust"
@@ -66,6 +73,7 @@
 		}
 		{
 			count: 2
+			id: "2C405DD42C18BC92"
 			item: {
 				count: 1
 				id: "ae2:logic_processor"
@@ -73,10 +81,17 @@
 			random_bonus: 1
 			weight: 2.0f
 		}
-		{ item: { count: 1, id: "ae2:calculation_processor" }, random_bonus: 1 }
-		{ item: { count: 1, id: "ae2:engineering_processor" } }
-		{ item: { count: 1, id: "ae2:formation_core" } }
-		{ item: { count: 1, id: "ae2:annihilation_core" } }
+		{
+			id: "679EE23D83331570"
+			item: {
+				count: 1
+				id: "ae2:calculation_processor"
+			}
+			random_bonus: 1
+		}
+		{ id: "71D435BCA9814E9E", item: { count: 1, id: "ae2:engineering_processor" } }
+		{ id: "6A7D1BB7952FAE34", item: { count: 1, id: "ae2:formation_core" } }
+		{ id: "7A660B6E72B76571", item: { count: 1, id: "ae2:annihilation_core" } }
 	]
 	use_title: true
 }

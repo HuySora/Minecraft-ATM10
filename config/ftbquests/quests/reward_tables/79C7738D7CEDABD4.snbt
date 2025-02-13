@@ -3,18 +3,19 @@
 	loot_size: 1
 	order_index: 32
 	rewards: [
-		{ item: { count: 1, id: "mysticalagriculture:iridium_seeds" } }
-		{ item: { count: 1, id: "mysticalagriculture:platinum_seeds" } }
-		{ item: { count: 1, id: "mysticalagriculture:emerald_seeds" } }
-		{ item: { count: 1, id: "mysticalagriculture:diamond_seeds" } }
-		{ item: { count: 1, id: "mysticalagriculture:netherite_seeds" } }
-		{ item: { count: 1, id: "mysticalagriculture:cyanite_seeds" } }
-		{ item: { count: 1, id: "mysticalagriculture:niotic_crystal_seeds" } }
-		{ item: { count: 1, id: "mysticalagriculture:spirited_crystal_seeds" } }
-		{ item: { count: 1, id: "mysticalagriculture:uraninite_seeds" } }
-		{ item: { count: 1, id: "mysticalagriculture:wither_skeleton_seeds" } }
+		{ id: "22129DC0AE93BFDF", item: { count: 1, id: "mysticalagriculture:iridium_seeds" } }
+		{ id: "78B7A63F69D4FE12", item: { count: 1, id: "mysticalagriculture:platinum_seeds" } }
+		{ id: "64F0874309141E18", item: { count: 1, id: "mysticalagriculture:emerald_seeds" } }
+		{ id: "7751764CE27AD96A", item: { count: 1, id: "mysticalagriculture:diamond_seeds" } }
+		{ id: "48BF75A3D5FD1EC9", item: { count: 1, id: "mysticalagriculture:netherite_seeds" } }
+		{ id: "7F0BA60E6F12A200", item: { count: 1, id: "mysticalagriculture:cyanite_seeds" } }
+		{ id: "4D84341B0E70A4C3", item: { count: 1, id: "mysticalagriculture:niotic_crystal_seeds" } }
+		{ id: "3E6A1C797F580B41", item: { count: 1, id: "mysticalagriculture:spirited_crystal_seeds" } }
+		{ id: "28777A15C18D73A8", item: { count: 1, id: "mysticalagriculture:uraninite_seeds" } }
+		{ id: "0D86023C25B09FAB", item: { count: 1, id: "mysticalagriculture:wither_skeleton_seeds" } }
 		{
 			count: 2
+			id: "4C1E1233FB27DBDB"
 			item: {
 				count: 1
 				id: "mysticalagriculture:supremium_essence"
@@ -22,11 +23,46 @@
 			random_bonus: 1
 			weight: 6.0f
 		}
-		{ item: { count: 1, id: "mysticalagriculture:supremium_block" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:supremium_ingot" }, weight: 6.0f }
-		{ item: { count: 1, id: "mysticalagriculture:supremium_gemstone" }, weight: 4.0f }
-		{ item: { count: 1, id: "mysticalagradditions:supremium_apple" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagradditions:supremium_coal" }, weight: 4.0f }
+		{
+			id: "2B901509DBA82FAA"
+			item: {
+				count: 1
+				id: "mysticalagriculture:supremium_block"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "621842C364083DCA"
+			item: {
+				count: 1
+				id: "mysticalagriculture:supremium_ingot"
+			}
+			weight: 6.0f
+		}
+		{
+			id: "39D9BC3A7856CA68"
+			item: {
+				count: 1
+				id: "mysticalagriculture:supremium_gemstone"
+			}
+			weight: 4.0f
+		}
+		{
+			id: "2E8B5EBA7CC64B3C"
+			item: {
+				count: 1
+				id: "mysticalagradditions:supremium_apple"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "24F0EBB6881FF782"
+			item: {
+				count: 1
+				id: "mysticalagradditions:supremium_coal"
+			}
+			weight: 4.0f
+		}
 	]
 	use_title: true
 }

@@ -8,6 +8,7 @@
 	rewards: [
 		{
 			count: 8
+			id: "1258945FF58E8E93"
 			item: {
 				count: 1
 				id: "alltheores:steel_ingot"
@@ -16,16 +17,18 @@
 		}
 		{
 			count: 16
+			id: "2F987F357BAA452D"
 			item: {
 				count: 1
 				id: "minecraft:copper_ingot"
 			}
 			weight: 1.5f
 		}
-		{ item: { count: 1, id: "modern_industrialization:bronze_tank" } }
-		{ item: { count: 1, id: "modern_industrialization:bronze_barrel" } }
+		{ id: "10029DF9862E15C2", item: { count: 1, id: "modern_industrialization:bronze_tank" } }
+		{ id: "2226CCD8D70B46B7", item: { count: 1, id: "modern_industrialization:bronze_barrel" } }
 		{
 			count: 8
+			id: "0A5C1BC0F6A00857"
 			item: {
 				count: 1
 				id: "alltheores:bronze_ingot"
@@ -34,12 +37,20 @@
 		}
 		{
 			count: 2
+			id: "7459AA7454BF32C6"
 			item: {
 				count: 1
 				id: "modern_industrialization:bronze_machine_casing"
 			}
 			weight: 0.4f
 		}
-		{ item: { count: 1, id: "modern_industrialization:steel_machine_casing" }, weight: 0.3f }
+		{
+			id: "4CB8208893460750"
+			item: {
+				count: 1
+				id: "modern_industrialization:steel_machine_casing"
+			}
+			weight: 0.3f
+		}
 	]
 }

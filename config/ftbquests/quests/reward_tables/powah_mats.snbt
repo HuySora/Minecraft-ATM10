@@ -5,17 +5,40 @@
 	rewards: [
 		{
 			count: 2
+			id: "4501A2C28A8E5F92"
 			item: {
 				count: 1
 				id: "powah:capacitor_basic_tiny"
 			}
 			random_bonus: 2
 		}
-		{ item: { count: 1, id: "powah:capacitor_basic" }, random_bonus: 2 }
-		{ item: { count: 1, id: "powah:capacitor_basic_large" }, random_bonus: 1 }
-		{ item: { count: 1, id: "powah:dielectric_casing" }, random_bonus: 3 }
+		{
+			id: "720DA01A25CE018A"
+			item: {
+				count: 1
+				id: "powah:capacitor_basic"
+			}
+			random_bonus: 2
+		}
+		{
+			id: "1931677F91B65474"
+			item: {
+				count: 1
+				id: "powah:capacitor_basic_large"
+			}
+			random_bonus: 1
+		}
+		{
+			id: "1E63865A61156DAD"
+			item: {
+				count: 1
+				id: "powah:dielectric_casing"
+			}
+			random_bonus: 3
+		}
 		{
 			count: 8
+			id: "0BEBA2D6102D5870"
 			item: {
 				count: 1
 				id: "powah:dielectric_rod_horizontal"
@@ -24,6 +47,7 @@
 		}
 		{
 			count: 8
+			id: "15BC5372AB8CA3CA"
 			item: {
 				count: 1
 				id: "powah:dielectric_rod"
@@ -32,6 +56,7 @@
 		}
 		{
 			count: 16
+			id: "05C915A284D0ACB8"
 			item: {
 				count: 1
 				id: "powah:dielectric_paste"

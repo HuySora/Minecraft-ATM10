@@ -27,6 +27,8 @@
 		# Default: 20
 		# Range: > 1
 		check_recipe_ticks = 20
+		#Defines the _default_ color for EMI/JEI chance text color. (Hex color without alpha) Has to be defined both server and clientside!
+		chance_color = "#FFFFFF"
 
 	[general.Rendering]
 		#The time in milliseconds the structure requirement
